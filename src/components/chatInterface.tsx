@@ -86,7 +86,7 @@ const ChatInterface = () => {
           <div className="flex items-center gap-3">
             <div className="w-10 h-10 relative bg-white rounded-full p-1">
               <Image
-                src="/collectwiseLogo.jpg"
+                src="/collectWiseLogo.jpg"
                 alt="CollectWise Logo"
                 fill
                 className="object-contain rounded-full"
