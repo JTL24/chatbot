@@ -31,5 +31,3 @@ OPENAI_API_KEY=your_api_key_here
 ```bash
 npm run dev
 ```
-
-Open [http://localhost:3000](http://localhost:3000) to view the chatbot.
